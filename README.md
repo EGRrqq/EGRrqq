@@ -5,9 +5,9 @@
 
 ### main fullStackOpen projects
 
-- [fullStackOpen_bloglist](https://github.com/EGRrqq/fullStackOpen_bloglist) - bloglist fullstack app based on part4, part5, part7 fullStackOpen course <br/>
+- [fullStackOpen_bloglist](https://github.com/EGRrqq/fullStackOpen_bloglist) - bloglist fullstack app <br/>
    - React, Node.js, Express, MongoDB, Jest, Cypress, Github Actions, Webpack
-- [containerize_bloglist](https://github.com/EGRrqq/containerize_bloglist) - containerized version bloglist fullstack app based on part4, part5, part7 fullStackOpen course <br/>
+- [containerize_bloglist](https://github.com/EGRrqq/containerize_bloglist) - containerized version bloglist fullstack app <br/>
   - React, Redux, Node.js, Express, MongoDB, Jest, Cypress, Docker
 - [fullStackOpen_part13](https://github.com/EGRrqq/fullStackOpen_part13) - backend using PostgreSQL for the bloglist app <br/>
   - Node.js, Express, PostgreSQL, Sequelize

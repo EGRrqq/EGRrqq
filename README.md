@@ -14,7 +14,7 @@
 - [fullStackOpen_part10](https://github.com/EGRrqq/fullStackOpen_part10) - frontend built on react-native for the rate-repository app <br/>
   📚 React, React Native, Expo, Jest, Graphql, Apollo Client
 - [fullStackOpen_part8](https://github.com/EGRrqq/fullStackOpen/tree/main/part8/) - library fullstack app <br/>
-  📚 React, Node.js, Express, Graphql, Apollo Server
+  📚 React, Node.js, Express, Graphql, Apollo Server, Apollo Client
 
 <!--
 **EGRrqq/EGRrqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

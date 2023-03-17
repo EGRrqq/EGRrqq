@@ -19,9 +19,15 @@
 ##
 
 <picture>
-  <img src="./general.svg" alt="Metrics">
+  <img align="right" width="400" src="./leetcode.svg" alt="Metrics">
 </picture>
 
 <picture>
-  <img src="./languages.svg" alt="Metrics">
+  <img align="left" width="400" src="./general.svg" alt="Metrics">
 </picture>
+
+<picture>
+  <img align="left" width="400" src="./languages.svg" alt="Metrics">
+</picture>
+
+

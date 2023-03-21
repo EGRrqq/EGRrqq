@@ -15,6 +15,8 @@
   📚 React, React Native, Expo, Jest, Graphql, Apollo Client
 - [fullStackOpen_part8](https://github.com/EGRrqq/fullStackOpen/tree/main/part8/) - library fullstack app <br/>
   📚 React, Node.js, Express, Graphql, Apollo Server, Apollo Client
+- [fullStackOpen_part9](https://github.com/EGRrqq/fullStackOpen/tree/main/part9/patientor-backend) - backend for the patientor app <br/>
+  📚 React, Node.js, Express, Typescript
 
 ##
 

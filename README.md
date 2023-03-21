@@ -1,7 +1,7 @@
 ## fullStackOpen
 
 - [fullStackOpen](https://github.com/EGRrqq/fullStackOpen) - the main repository, which contains all the links to the 13 parts of the course <br/>
-  📚 React, React Native, Redux, TypeScript, Jest, Cypress, Node.js, Express, MongoDB, GraphQL, Redis, PostgreSQL, Sequelize, Expo, Apollo Docker, Github Actions, Webpack
+  📚 React, React Native, Redux, TypeScript, Jest, Cypress, Node.js, Express, MongoDB, GraphQL, Redis, PostgreSQL, Sequelize, Expo, Apollo, Docker, Github Actions, Webpack
 
 ### main fullStackOpen projects
 

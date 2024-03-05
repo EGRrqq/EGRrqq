@@ -1,4 +1,10 @@
-##
+## projects
+
+- [Little Notes](https://github.com/EGRrqq/little-notes) - simple drawing app with save/load feature, pen settings support, all data is cached
+- [The Hungry Pet](https://github.com/EGRrqq/The-Hungry-Pet) - immerse yourself in the story, all assets are made by me. If you want to fully dive into the game, check out the prerequisites in the readme
+- [Tic Tac Toe](https://github.com/EGRrqq/tic-tac-toe) - tct game inside your console, the design and most of the icons are made by me
+
+## stats
 
 <table>
   <tr>

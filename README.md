@@ -3,10 +3,14 @@
 <table>
   <tr>
     <td>
-        <img src="./leetcode.svg" alt="final project result">
+      <picture>
+        <img src="./leetcode.svg" alt="leetcode metrics">
+      </picture>
     </td>
     <td>
-        <img src="https://github.r2v.ch/codewars?user=EGRrqq&hide_clan=true&animation=false&theme=light&top_languages=true" alt="figma project iteration">
+      <picture>
+        <img src="https://github.r2v.ch/codewars?user=EGRrqq&hide_clan=true&animation=false&theme=light&top_languages=true" alt="codewars metrics">
+      </picture>
     </td>
   </tr>
   <tr>

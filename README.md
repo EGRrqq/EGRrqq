@@ -1,8 +1,37 @@
-## projects
+<!-- ## projects
 
-- [Little Notes](https://github.com/EGRrqq/little-notes) - simple drawing app with save/load feature, pen settings support, all data is cached
-- [The Hungry Pet](https://github.com/EGRrqq/The-Hungry-Pet) - immerse yourself in the story, all assets are made by me. If you want to fully dive into the game, check out the prerequisites in the readme
-- [Tic Tac Toe](https://github.com/EGRrqq/tic-tac-toe) - tct game inside your console, the design and most of the icons are made by me
+- [**Tic Tac Toe**](https://github.com/EGRrqq/tic-tac-toe) - tct game inside your console
+- [**The Hungry Pet**](https://github.com/EGRrqq/The-Hungry-Pet) - immerse yourself in the story
+- [**Little Notes**](https://github.com/EGRrqq/little-notes) - simple drawing app
+- [**Raw Weather**](https://github.com/EGRrqq/raw-weather) - simple weather simulation app. UI has not been developed, yet -->
+
+## prjct
+
+<div>
+  <pre align="center">
+<p align="left">
+    /-----------------------------------------------------\
+    |                                                     |                                                                           
+    |  • <a href="https://github.com/EGRrqq/tic-tac-toe"><b>Tic Tac Toe</b></a>- tct game inside your console        |                            
+    |  • <a href="https://github.com/EGRrqq/The-Hungry-Pet"><b>The Hungry Pet</b></a> - immerse yourself in the story   |                 
+    |  • <a href="https://github.com/EGRrqq/little-notes"><b>Little Notes</b></a> - simple drawing app                |⠀⠀   ⢀⣀⣀⣀⣀⣀⣀⡀      
+    |  • <a href="https://github.com/EGRrqq/raw-weather"><b>Raw Weather</b></a> - simple weather simulation app.     |⢠⠐⠲⢠⣿⣿⣿⣿⣿⡿⢛⣻⣿⣿⣶⣄   
+    |                     UI has not been developed, yet ⣴⣿⡦⢀⣾⣿⣿⣿⣿⠿⢫⡀⠀⢈⣉⣻⣿⣷⣤⡀
+    |                                                 ⠀  ⠙⣉⠡⠿⠻⠿⠿⠟⣋⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄
+    |                                                     ⢈⣿⣆⠀⢀⣤⣴⣿⣿⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀
+    \----------------------------------------------------⣴⣿⣿⣿⣃⣛⣿⣿⡿⠂⢀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀
+                                                    ⢰⣿⣿⡿⠱⠇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢿⢧
+                                                    ⢰⡏⣿⡇⠻⣷⣌⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⢻⣷⣜⠄
+                                                     ⠆⢁⣉⣴⣷⣌⢿⣷⡜⣿⣿⣿⣿⡟⣠⣬⣙⢿⣯⡙⢿⣿⣿⣿⣿⣿⢸⣿⣿⡌
+                                                    ⠘⢌⢿⣿⣿⣿⣆⢻⣷⢸⣿⣿⣿⡇⢻⣿⣿⣧⡹⣿⣌⢻⣿⣿⠟⡁⣼⣿⣿⡇
+                                                      ⠠⡻⣿⣿⣿⢸⡟⣠⢍⡛⠻⠷⠸⣿⣿⣿⣷⠸⣿⡆⢋⠥⠈⠇⠟⣡⠏
+                                                      ⠀⠈⠊⠍⠩⠄⠂⠀⠀⠀⠀⠀⢠⢻⣿⣿⣿⡇⣿⡇⠀⠀⠀⠈⠐⠐⠊
+                                                      ⠀⠀⠀⠀⠀⠀⠀        ⠁⢝⠻⠿⠇⢛⠐
+</p>
+  </pre>
+</div>
+
+<br/>
 
 ## stats
 
@@ -28,3 +57,4 @@
     </strong></td>
   </tr>
 </table>
+
